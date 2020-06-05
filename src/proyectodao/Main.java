@@ -14,8 +14,8 @@ public class Main {
     public static void main(String[] args) {
         Persona p1=new Persona();
         p1.setClave("002");
-        p1.setNombre("Heidi Medel");
-        p1.setDireccion("Mendoza ver");
+        p1.setNombre("H Medel");
+        p1.setDireccion("Mendoza");
         p1.setTelefono("76981");
         
         DAOPersona daoP=new DAOPersona();
